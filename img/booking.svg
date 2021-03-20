@@ -1,0 +1,214 @@
+<svg id="Layer_205" data-name="Layer 205" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150.566 87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-16, .cls-3 {
+        fill: #ff5252;
+      }
+
+      .cls-17, .cls-4 {
+        fill: #ff0;
+      }
+
+      .cls-18, .cls-5 {
+        fill: #69f0ae;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-10, .cls-7 {
+        fill: #2fb163;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-9 {
+        fill: #ff9800;
+      }
+
+      .cls-10 {
+        opacity: 0.4;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-19 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-20 {
+        fill: #ace0c1;
+      }
+
+      .cls-21 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-22 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-23 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-24 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-25 {
+        opacity: 0.2;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1025.933" y1="985.688" x2="1034.915" y2="910.781" gradientUnits="userSpaceOnUse">
+      <stop offset="0.085" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="1.877" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="3.405" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1029.451" y1="952.344" x2="1033.205" y2="921.031" gradientUnits="userSpaceOnUse">
+      <stop offset="-40.455" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="136.403" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="287.185" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1007.167" y1="956.188" x2="1007.733" y2="951.469" gradientUnits="userSpaceOnUse">
+      <stop offset="-9.695" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="34.331" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="71.865" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="982.019" y1="983.781" x2="967.855" y2="903.938" gradientUnits="userSpaceOnUse">
+      <stop offset="-140.145" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="467.211" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="985.015" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="974.837" y1="951.25" x2="968.352" y2="914.688" gradientUnits="userSpaceOnUse">
+      <stop offset="-33.045" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="111.814" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="235.315" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="954.599" y1="960.062" x2="953.713" y2="955.062" gradientUnits="userSpaceOnUse">
+      <stop offset="-8.705" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="31.045" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="64.935" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="1001.826" y1="982.031" x2="1001.826" y2="905.688" gradientUnits="userSpaceOnUse">
+      <stop offset="-226.5" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="753.768" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="1589.5" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="1000.83" y1="942.531" x2="1000.83" y2="917.312" gradientUnits="userSpaceOnUse">
+      <stop offset="-74.5" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="249.377" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="525.5" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="975.453" y1="957.156" x2="975.453" y2="952.281" gradientUnits="userSpaceOnUse">
+      <stop offset="-14" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="48.616" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="102" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="1002.17" y1="990.938" x2="1002.17" y2="965.219" gradientUnits="userSpaceOnUse">
+      <stop offset="-76" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="254.354" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="536" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="1002.516" y1="966.719" x2="1002.516" y2="949.781" gradientUnits="userSpaceOnUse">
+      <stop offset="-49.5" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="166.418" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="350.5" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="1002.52" y1="982.875" x2="1002.52" y2="973.094" gradientUnits="userSpaceOnUse">
+      <stop offset="-28.5" stop-color="gray" stop-opacity="0.239"/>
+      <stop offset="96.732" stop-color="gray" stop-opacity="0.11"/>
+      <stop offset="203.5" stop-color="gray" stop-opacity="0.09"/>
+    </linearGradient>
+  </defs>
+  <path id="Layer_148" data-name="Layer 148" class="cls-1" d="M995.767,912.126l-0.5,3.3,78.185,11.881,0.5-3.3Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_149" data-name="Layer 149" class="cls-2" d="M994.418,910.8l-9.5,62.5,81.488,12.383,9.5-62.5Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_150" data-name="Layer 150" class="cls-1" d="M995.263,915.429l-8.66,56.99,78.187,11.88,8.66-56.989Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_151" data-name="Layer 151" class="cls-3" d="M996.617,913.945a0.817,0.817,0,1,1,.685.931A0.817,0.817,0,0,1,996.617,913.945Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_152" data-name="Layer 152" class="cls-4" d="M998.838,914.282a0.815,0.815,0,1,1,.685.93A0.818,0.818,0,0,1,998.838,914.282Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_153" data-name="Layer 153" class="cls-5" d="M1001.06,914.62a0.814,0.814,0,1,1,.68.93A0.816,0.816,0,0,1,1001.06,914.62Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_154" data-name="Layer 154" class="cls-6" d="M997.794,921.026l-3.138,20.648,70.2,10.668,3.14-20.649Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_155" data-name="Layer 155" class="cls-7" d="M1067.19,932.415L998.5,921.977l-2.907,19.134,68.689,10.438Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_156" data-name="Layer 156" class="cls-8" d="M1005.42,951.476l-0.61,3.993,4.68,0.711,0.61-3.993Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_157" data-name="Layer 157" class="cls-7" d="M1009.99,952.453l-4.4-.67-0.5,3.3,4.4,0.669Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_158" data-name="Layer 158" class="cls-3" d="M1009.13,958.1l-4.4-.67-0.5,3.3,4.4,0.669Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_159" data-name="Layer 159" class="cls-9" d="M1008.28,963.741l-4.41-.669-0.5,3.3,4.4,0.669Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_160" data-name="Layer 160" class="cls-10" d="M1052.7,959.646l-35.52-5.4-0.29,1.927,35.52,5.4Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_161" data-name="Layer 161" class="cls-10" d="M1051.84,965.29l-35.51-5.4-0.3,1.926,35.52,5.4Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_162" data-name="Layer 162" class="cls-10" d="M1050.98,970.934l-35.51-5.4-0.29,1.926,35.51,5.4Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_163" data-name="Layer 163" class="cls-1" d="M1009.34,905.428L927.162,923.8l0.718,3.209,82.17-18.368Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_164" data-name="Layer 164" class="cls-11" d="M1010.98,903.938l-85.649,19.144,13.57,60.707,85.649-19.144Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_165" data-name="Layer 165" class="cls-1" d="M1010.05,908.64l-82.171,18.368,12.374,55.357L1022.43,964Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_166" data-name="Layer 166" class="cls-3" d="M929.352,924.168a0.806,0.806,0,1,1-.673.974A0.838,0.838,0,0,1,929.352,924.168Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_167" data-name="Layer 167" class="cls-4" d="M931.687,923.648a0.806,0.806,0,1,1-.673.973A0.838,0.838,0,0,1,931.687,923.648Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_168" data-name="Layer 168" class="cls-5" d="M934.02,923.126a0.806,0.806,0,1,1-.673.974A0.839,0.839,0,0,1,934.02,923.126Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_169" data-name="Layer 169" class="cls-12" d="M1006.24,914.686l-73.783,16.493,4.483,20.057,73.78-16.492Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_170" data-name="Layer 170" class="cls-7" d="M1005.7,915.649l-72.2,16.137,4.154,18.586,72.191-16.137Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_171" data-name="Layer 171" class="cls-13" d="M956.181,955.077l-4.919,1.1,0.867,3.877,4.918-1.1Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_172" data-name="Layer 172" class="cls-7" d="M956.555,955.6l-4.649,1.043,0.723,3.223,4.65-1.044Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_173" data-name="Layer 173" class="cls-3" d="M957.394,960.843l-4.63,1.035,0.717,3.209,4.631-1.035Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_174" data-name="Layer 174" class="cls-9" d="M959.038,966.6l-4.649,1.044,0.723,3.223,4.649-1.044Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_175" data-name="Layer 175" class="cls-10" d="M1001.31,945.972l-37.326,8.343,0.419,1.872,37.327-8.343Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_176" data-name="Layer 176" class="cls-10" d="M1002.53,951.455L965.21,959.8l0.418,1.872,37.322-8.343Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_177" data-name="Layer 177" class="cls-10" d="M1003.76,956.936l-37.325,8.343,0.418,1.872,37.327-8.343Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_178" data-name="Layer 178" class="cls-1" d="M1049.42,907.046h-95.5v4.035h95.5v-4.035Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_179" data-name="Layer 179" class="cls-14" d="M1051.6,905.7H952.075v76.327H1051.6V905.7Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_180" data-name="Layer 180" class="cls-15" d="M1049.42,911.081h-95.5v69.6h95.5v-69.6Z" transform="translate(-925.344 -903.938)"/>
+  <circle id="Layer_181" data-name="Layer 181" class="cls-16" cx="30.921" cy="5.124" r="0.985"/>
+  <circle id="Layer_182" data-name="Layer 182" class="cls-17" cx="33.625" cy="5.124" r="1"/>
+  <circle id="Layer_183" data-name="Layer 183" class="cls-18" cx="36.328" cy="5.124" r="0.984"/>
+  <path id="Layer_184" data-name="Layer 184" class="cls-19" d="M1043.7,917.3H957.959v25.218H1043.7V917.3Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_185" data-name="Layer 185" class="cls-20" d="M1042.86,918.31H958.968v23.369h83.892V918.31Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_186" data-name="Layer 186" class="cls-7" d="M963.984,921.982l32.624,0-8.154,16.136-16.312,0Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_187" data-name="Layer 187" class="cls-10" d="M1036.86,921.977h-35.81v2.354h35.81v-2.354Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_188" data-name="Layer 188" class="cls-10" d="M1036.86,928.87h-35.81v2.354h35.81V928.87Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_189" data-name="Layer 189" class="cls-10" d="M1036.86,935.763h-35.81v2.354h35.81v-2.354Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_190" data-name="Layer 190" class="cls-21" d="M978.3,952.271h-5.716v4.875H978.3v-4.875Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_191" data-name="Layer 191" class="cls-7" d="M978.218,952.607h-5.38v4.035h5.38v-4.035Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_192" data-name="Layer 192" class="cls-3" d="M978.218,959.5h-5.38v4.035h5.38V959.5Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_193" data-name="Layer 193" class="cls-9" d="M978.218,966.393h-5.38v4.035h5.38v-4.035Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_194" data-name="Layer 194" class="cls-10" d="M1030.5,953.447H987.128V955.8H1030.5v-2.354Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_195" data-name="Layer 195" class="cls-10" d="M1030.5,960.34H987.128v2.354H1030.5V960.34Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_196" data-name="Layer 196" class="cls-10" d="M1030.5,967.233H987.128v2.354H1030.5v-2.354Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_197" data-name="Layer 197" class="cls-22" d="M1017.81,965.216H986.54v25.722h31.27V965.216Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_198" data-name="Layer 198" class="cls-23" d="M993.755,961.125a8.758,8.758,0,0,1,17.515,0v5.6h2.45v-5.741a11.209,11.209,0,0,0-22.417,0c0,0.046,0,.092,0,0.137v5.6h2.451v-5.6Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_199" data-name="Layer 199" class="cls-15" d="M994.105,961.013a8.408,8.408,0,0,1,16.815,0v5.38h2.35v-5.38a10.76,10.76,0,1,0-21.519,0v5.38h2.354v-5.38Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_200" data-name="Layer 200" class="cls-7" d="M1017.14,966.056H987.885V989.93h29.255V966.056Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_201" data-name="Layer 201" class="cls-15" d="M1017.14,966.056H987.885V989.93h29.255V966.056Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_202" data-name="Layer 202" class="cls-7" d="M1017.14,970.764H987.885v14.458h29.255V970.764Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_203" data-name="Layer 203" class="cls-24" d="M1004.66,975.263v-0.01a2.145,2.145,0,1,0-3.7,1.479v4.576a1.56,1.56,0,0,0,3.12,0v-4.576A2.163,2.163,0,0,0,1004.66,975.263Z" transform="translate(-925.344 -903.938)"/>
+  <path id="Layer_204" data-name="Layer 204" class="cls-25" d="M1004.36,975.639v0a1.85,1.85,0,0,0-3.7,0,1.826,1.826,0,0,0,.51,1.269v3.946a1.345,1.345,0,1,0,2.69,0v-3.946A1.855,1.855,0,0,0,1004.36,975.639Z" transform="translate(-925.344 -903.938)"/>
+</svg>
